@@ -1,0 +1,15 @@
+frmMain = 23, 71, 835, 683, C, 0, 0, 0, 0, C
+MorphSupport = -17, 41, 795, 605, C
+frmSplash = 104, 116, 861, 680, C, 0, 0, 0, 0, C
+frmSearch = 1, 74, 801, 480, C, 0, 0, 0, 0, C
+frmUrl = 102, 79, 739, 643, C, 0, 0, 0, 0, C
+frmAbout = 133, 116, 1027, 680, C, 0, 0, 0, 0, C
+MainSupport = 24, 79, 959, 646, C
+devGetData = 133, 116, 608, 680, C, 0, 0, 0, 0, C
+frmViewAddress = 7, 98, 991, 662, C, 0, 0, 0, 0, C
+CMWndProc = 128, 104, 1025, 676, C
+CMyItemData = 133, 116, 608, 680, C
+CMyItemDatas = 133, 116, 1025, 680, C
+CoolMenu = 133, 116, 1026, 680, C
+frmExport = 13, 109, 1018, 673, C, 0, 0, 0, 0, C
+frmOptions = 133, 116, 1023, 680, C, 0, 0, 0, 0, C
